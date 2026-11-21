@@ -1,0 +1,2 @@
+case=16 sender_exit=1 receiver_exit=1 folder=/tmp/fielddrop-case-16-1086637
+PASS: existing output unchanged

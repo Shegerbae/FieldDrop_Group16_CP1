@@ -1,0 +1,2 @@
+case=15 sender_exit=1 receiver_exit=NA folder=/tmp/fielddrop-case-15-1073774
+PASS: oversized input rejected

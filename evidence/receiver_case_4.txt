@@ -1,0 +1,2 @@
+case=4 sender_exit=0 receiver_exit=0 folder=/tmp/fielddrop-case-4-1086597
+PASS: transferred bytes match
